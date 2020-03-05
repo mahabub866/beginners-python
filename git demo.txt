@@ -1,0 +1,4 @@
+git init
+git config --global user.name"mahabub866"
+git config --global user.email"mahaboburrahman866@gmail.com"
+git status
